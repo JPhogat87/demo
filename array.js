@@ -37,7 +37,7 @@ var data2 = [];
 var i=0;
 for(let a of data1)
 {
-    //console.log(data1[i]);
+    //console.log(data1[i]); 
     if(a.Status!="InValid")
     {
         data2.push(data1[i]);

@@ -11,4 +11,4 @@ console.log(me(name, age, hobby))
 
 add = () => 5+1;
 
-console.log(add())
+console.log(add()) 

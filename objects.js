@@ -7,4 +7,4 @@ const obj =
         console.log('Hi, '+this.name)
     }
 }
-obj.a();
+obj.a(); 
